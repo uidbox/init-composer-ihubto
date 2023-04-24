@@ -1,0 +1,13 @@
+{
+  "name": "ihubto/init",
+  "description": "",
+  "type": "project",
+  "license": "MIT",
+  "homepage": "https://github.com/iHubTO",
+  "keywords": ["iHubTO", "init-composer"],
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false,
+    "sort-packages": true
+  }
+}
